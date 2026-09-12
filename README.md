@@ -1,3 +1,4 @@
+![WindowMover – ikkunoiden siirto näyttöjen välillä](windowmover-cover.png)
 # WindowMover
 Kevyt Windows-työkalu aktiivisen ikkunan siirtämiseen näyttöjen välillä globaalilla pikanäppäimellä.
 
