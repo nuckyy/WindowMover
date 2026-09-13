@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuHotkeyEnabled" xml:space="preserve"><value>Pikanäppäin käytössä</value></data>
+  <data name="MenuSettings" xml:space="preserve"><value>Asetukset…</value></data>
+  <data name="MenuAbout" xml:space="preserve"><value>Tietoja</value></data>
+  <data name="MenuExit" xml:space="preserve"><value>Sulje</value></data>
+  <data name="MenuMoveWithHotkey" xml:space="preserve"><value>Siirrä aktiivinen ikkuna ({0})</value></data>
+  <data name="TrayDisabled" xml:space="preserve"><value>ei käytössä</value></data>
+  <data name="SettingsTitle" xml:space="preserve"><value>WindowMover – asetukset</value></data>
+  <data name="HotkeyHeading" xml:space="preserve"><value>Aktiivisen ikkunan siirtopikanäppäin</value></data>
+  <data name="StartWithWindows" xml:space="preserve"><value>Käynnistä automaattisesti Windowsiin kirjautuessa</value></data>
+  <data name="LanguageLabel" xml:space="preserve"><value>Kieli</value></data>
+  <data name="LanguageSystemDefault" xml:space="preserve"><value>Järjestelmän oletus ({0})</value></data>
+  <data name="LanguageEnglish" xml:space="preserve"><value>Englanti</value></data>
+  <data name="LanguageFinnish" xml:space="preserve"><value>Suomi</value></data>
+  <data name="Save" xml:space="preserve"><value>Tallenna</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Peruuta</value></data>
+  <data name="InvalidHotkey" xml:space="preserve"><value>Valitse vähintään yksi muunnosnäppäin ja kirjain, numero tai F-näppäin.</value></data>
+  <data name="HotkeyRegistrationFailed" xml:space="preserve"><value>Pikanäppäintä {0} ei voitu rekisteröidä. Se voi olla jo toisen sovelluksen käytössä.</value></data>
+  <data name="InvalidHotkeyArgument" xml:space="preserve"><value>Pikanäppäimen on sisällettävä muunnosnäppäin ja tuettu kirjain, numero tai F-näppäin.</value></data>
+  <data name="NoForegroundWindow" xml:space="preserve"><value>Siirrettävää aktiivista ikkunaa ei löytynyt.</value></data>
+  <data name="OwnWindow" xml:space="preserve"><value>WindowMoverin omaa ikkunaa ei siirretä.</value></data>
+  <data name="UnsupportedWindow" xml:space="preserve"><value>Windowsin työpöytää tai tehtäväpalkkia ei voi siirtää.</value></data>
+  <data name="OneMonitor" xml:space="preserve"><value>Käytössä on vain yksi näyttö.</value></data>
+  <data name="SourceMonitorNotFound" xml:space="preserve"><value>Aktiivisen ikkunan näyttöä ei voitu tunnistaa.</value></data>
+  <data name="WindowLocationReadFailed" xml:space="preserve"><value>Ikkunan sijaintia ei voitu lukea.</value></data>
+  <data name="WindowStateReadFailed" xml:space="preserve"><value>Ikkunan tilaa ei voitu lukea.</value></data>
+  <data name="WindowMoveFailed" xml:space="preserve"><value>Ikkunaa ei voitu siirtää.</value></data>
+  <data name="MoveSuccess" xml:space="preserve"><value>Ikkuna siirrettiin seuraavalle näytölle.</value></data>
+  <data name="MonitorInfoReadFailed" xml:space="preserve"><value>Näyttötietojen lukeminen epäonnistui.</value></data>
+  <data name="MonitorEnumerationFailed" xml:space="preserve"><value>Näyttöjen luettelointi epäonnistui.</value></data>
+  <data name="AccessDenied" xml:space="preserve"><value>Windows esti siirron. Kohdeikkuna toimii todennäköisesti järjestelmänvalvojana.</value></data>
+  <data name="MoveOperationFailedLog" xml:space="preserve"><value>Ikkunan siirtäminen epäonnistui</value></data>
+  <data name="MoveOperationFailed" xml:space="preserve"><value>Ikkunan siirtäminen epäonnistui: {0}</value></data>
+  <data name="PreviousHotkeyRestoreFailed" xml:space="preserve"><value>Aiemman pikanäppäimen palauttaminen epäonnistui</value></data>
+  <data name="StartupSettingFailedLog" xml:space="preserve"><value>Automaattisen käynnistyksen asettaminen epäonnistui</value></data>
+  <data name="StartupSettingFailed" xml:space="preserve"><value>Automaattista käynnistystä ei voitu muuttaa: {0}</value></data>
+  <data name="SettingsLoadFailed" xml:space="preserve"><value>Asetusten lukeminen epäonnistui</value></data>
+  <data name="SettingsSaveFailedLog" xml:space="preserve"><value>Asetusten tallentaminen epäonnistui</value></data>
+  <data name="SettingsSaveFailed" xml:space="preserve"><value>Asetuksia ei voitu tallentaa: {0}</value></data>
+  <data name="UnhandledUiError" xml:space="preserve"><value>Käsittelemätön käyttöliittymävirhe</value></data>
+  <data name="UnhandledAppError" xml:space="preserve"><value>Käsittelemätön sovellusvirhe</value></data>
+  <data name="AppStartFailedLog" xml:space="preserve"><value>Sovelluksen käynnistys epäonnistui</value></data>
+  <data name="AppStartFailed" xml:space="preserve"><value>WindowMover ei voinut käynnistyä.&#10;&#10;{0}</value></data>
+  <data name="AboutTitle" xml:space="preserve"><value>Tietoja WindowMoverista</value></data>
+  <data name="AboutMessage" xml:space="preserve"><value>WindowMover {0}&#10;&#10;Siirtää aktiivisen ikkunan seuraavalle näytölle ja säilyttää ikkunan tilan.</value></data>
+</root>

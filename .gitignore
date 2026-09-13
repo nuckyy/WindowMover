@@ -1,0 +1,14 @@
+bin/
+obj/
+artifacts/
+.dotnet/
+.tools/
+.cli/
+.packages/
+.profile/
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+.vs/

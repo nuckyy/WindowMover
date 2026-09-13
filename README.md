@@ -16,6 +16,8 @@ No separate .NET installation is required.
 - Keeps maximized windows maximized.
 - Supports mixed resolutions, DPI scaling, and negative virtual desktop coordinates.
 - Customizable global keyboard shortcut.
+- Follows the Windows display language, with English fallback.
+- Manual English and Finnish language choices that apply immediately.
 - Optional launch at Windows sign-in.
 - No ads, network access, telemetry, or personal data collection.
 
@@ -27,6 +29,21 @@ No separate .NET installation is required.
 4. Press **Ctrl + Alt + M**.
 
 Double-click the WindowMover system tray icon to open settings.
+
+## Building from source
+
+WindowMover requires the .NET 10 SDK on Windows 10 or Windows 11.
+
+```powershell
+.\build.ps1
+```
+
+The command restores dependencies, builds the Release configuration, and runs
+the automated tests. To create a self-contained x64 executable:
+
+```powershell
+.\publish.ps1
+```
 
 ## System requirements
 

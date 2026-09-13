@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MenuHotkeyEnabled" xml:space="preserve"><value>Keyboard shortcut enabled</value></data>
+  <data name="MenuSettings" xml:space="preserve"><value>Settings…</value></data>
+  <data name="MenuAbout" xml:space="preserve"><value>About</value></data>
+  <data name="MenuExit" xml:space="preserve"><value>Exit</value></data>
+  <data name="MenuMoveWithHotkey" xml:space="preserve"><value>Move active window ({0})</value></data>
+  <data name="TrayDisabled" xml:space="preserve"><value>disabled</value></data>
+  <data name="SettingsTitle" xml:space="preserve"><value>WindowMover – Settings</value></data>
+  <data name="HotkeyHeading" xml:space="preserve"><value>Keyboard shortcut for moving the active window</value></data>
+  <data name="StartWithWindows" xml:space="preserve"><value>Launch automatically when signing in to Windows</value></data>
+  <data name="LanguageLabel" xml:space="preserve"><value>Language</value></data>
+  <data name="LanguageSystemDefault" xml:space="preserve"><value>System default ({0})</value></data>
+  <data name="LanguageEnglish" xml:space="preserve"><value>English</value></data>
+  <data name="LanguageFinnish" xml:space="preserve"><value>Finnish</value></data>
+  <data name="Save" xml:space="preserve"><value>Save</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="InvalidHotkey" xml:space="preserve"><value>Select at least one modifier and a letter, number, or function key.</value></data>
+  <data name="HotkeyRegistrationFailed" xml:space="preserve"><value>The keyboard shortcut {0} could not be registered. It may already be in use by another application.</value></data>
+  <data name="InvalidHotkeyArgument" xml:space="preserve"><value>The keyboard shortcut must contain a modifier and a supported letter, number, or function key.</value></data>
+  <data name="NoForegroundWindow" xml:space="preserve"><value>No active window was found to move.</value></data>
+  <data name="OwnWindow" xml:space="preserve"><value>WindowMover does not move its own windows.</value></data>
+  <data name="UnsupportedWindow" xml:space="preserve"><value>The Windows desktop and taskbar cannot be moved.</value></data>
+  <data name="OneMonitor" xml:space="preserve"><value>Only one monitor is available.</value></data>
+  <data name="SourceMonitorNotFound" xml:space="preserve"><value>The active window's monitor could not be identified.</value></data>
+  <data name="WindowLocationReadFailed" xml:space="preserve"><value>The window position could not be read.</value></data>
+  <data name="WindowStateReadFailed" xml:space="preserve"><value>The window state could not be read.</value></data>
+  <data name="WindowMoveFailed" xml:space="preserve"><value>The window could not be moved.</value></data>
+  <data name="MoveSuccess" xml:space="preserve"><value>The window was moved to the next monitor.</value></data>
+  <data name="MonitorInfoReadFailed" xml:space="preserve"><value>Reading monitor information failed.</value></data>
+  <data name="MonitorEnumerationFailed" xml:space="preserve"><value>Enumerating monitors failed.</value></data>
+  <data name="AccessDenied" xml:space="preserve"><value>Windows blocked the move. The target window is probably running as administrator.</value></data>
+  <data name="MoveOperationFailedLog" xml:space="preserve"><value>Moving the window failed</value></data>
+  <data name="MoveOperationFailed" xml:space="preserve"><value>Moving the window failed: {0}</value></data>
+  <data name="PreviousHotkeyRestoreFailed" xml:space="preserve"><value>Restoring the previous keyboard shortcut failed</value></data>
+  <data name="StartupSettingFailedLog" xml:space="preserve"><value>Changing the launch-at-sign-in setting failed</value></data>
+  <data name="StartupSettingFailed" xml:space="preserve"><value>The launch-at-sign-in setting could not be changed: {0}</value></data>
+  <data name="SettingsLoadFailed" xml:space="preserve"><value>Loading settings failed</value></data>
+  <data name="SettingsSaveFailedLog" xml:space="preserve"><value>Saving settings failed</value></data>
+  <data name="SettingsSaveFailed" xml:space="preserve"><value>Settings could not be saved: {0}</value></data>
+  <data name="UnhandledUiError" xml:space="preserve"><value>Unhandled user interface error</value></data>
+  <data name="UnhandledAppError" xml:space="preserve"><value>Unhandled application error</value></data>
+  <data name="AppStartFailedLog" xml:space="preserve"><value>Application startup failed</value></data>
+  <data name="AppStartFailed" xml:space="preserve"><value>WindowMover could not start.&#10;&#10;{0}</value></data>
+  <data name="AboutTitle" xml:space="preserve"><value>About WindowMover</value></data>
+  <data name="AboutMessage" xml:space="preserve"><value>WindowMover {0}&#10;&#10;Moves the active window to the next monitor while preserving its state.</value></data>
+</root>

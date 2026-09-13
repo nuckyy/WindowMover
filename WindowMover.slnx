@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/WindowMover/WindowMover.csproj" />
+  <Project Path="tests/WindowMover.Tests/WindowMover.Tests.csproj" />
+</Solution>
